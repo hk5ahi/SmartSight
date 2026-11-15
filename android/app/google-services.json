@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732536432978",
+    "project_id": "smartsight-c30f8",
+    "storage_bucket": "smartsight-c30f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732536432978:android:92045be0b54121b14e728b",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732536432978-t1o8p6lgisgmfp0q5l3qrq7lcv67mpn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQexkud4KXlZkolObjQS7XW5P4v_MdRZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732536432978-t1o8p6lgisgmfp0q5l3qrq7lcv67mpn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
